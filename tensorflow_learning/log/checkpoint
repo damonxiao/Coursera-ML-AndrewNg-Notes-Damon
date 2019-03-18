@@ -1,2 +1,2 @@
-model_checkpoint_path: "linearmodel.cpkt-18"
-all_model_checkpoint_paths: "linearmodel.cpkt-18"
+model_checkpoint_path: "linearmodel.cpkt"
+all_model_checkpoint_paths: "linearmodel.cpkt"
